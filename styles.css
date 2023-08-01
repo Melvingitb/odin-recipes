@@ -7,12 +7,20 @@ body {
 h1 {
     text-align: center;
     font-size: 40px;
+    margin-bottom: 50px;
 }
 
 ul {
     font-size: 30px;
+    width: 300px;
+    margin: 0 auto;
+    /*list-style-position: inside;
+    text-align: center;*/
 }
 
 li {
     margin: 15px 0px;
+    border: 5px solid #258ff5;
+    padding: 5px;
+    
 }
